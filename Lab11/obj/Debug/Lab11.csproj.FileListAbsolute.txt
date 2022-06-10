@@ -1,0 +1,50 @@
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Lab11\Lab11\obj\Debug\Lab11.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\obj\Debug\Lab11.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba11\Тая\Lab11\Lab11\bin\Debug\Lab11.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\bin\Debug\Lab11.exe.config
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\bin\Debug\Lab11.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\bin\Debug\Lab11.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\obj\Debug\Lab11.Form1.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\obj\Debug\Lab11.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba11\Lab11\obj\Debug\Lab11.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\bin\Debug\Lab11.exe.config
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\bin\Debug\Lab11.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\bin\Debug\Lab11.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\obj\Debug\Lab11.Form1.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\obj\Debug\Lab11.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Laba11\Lab11\obj\Debug\Lab11.pdb
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab11\Lab11\obj\Debug\Lab11.pdb
